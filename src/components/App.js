@@ -12,7 +12,7 @@ const App = () => {
     <div className="App">
       <div className="details">
         <p>
-          Employee{id} named {name} works as {designation}
+          Employee {id} named {name} works as {designation}
         </p>
       </div>
     </div>
